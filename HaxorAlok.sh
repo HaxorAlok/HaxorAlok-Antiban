@@ -4,7 +4,7 @@ echo "[1m[94m========================[0m[0m"
 echo "[1m[94mHaxor Alok Antiban[0m[0m"
 echo "[1m[94m========================[0m[0m"
 sleep 3;
-rm -rf /data/data/com.tencent.ig/app_appcache;
+rm -rf /data/data/com.tencent.ig/app_appcache
 rm -rf /data/data/com.tencent.ig/app_bugly
 rm -rf /data/data/com.tencent.ig/app_crashrecord
 rm -rf /data/data/com.tencent.ig/app_databases
@@ -58,7 +58,6 @@ tsu -c rm /storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTr
 tsu -c rm -rf /storage/emulated/0/HaxorAlok/
 echo ""
 printf "
-
 ";
 printf "System detected that the game is dead 
 ";
@@ -67,7 +66,6 @@ printf "
 Setting files & Permission to default!";
 sleep 1
 printf "
-
 ";
 sleep 2
 toilet "THANKS FOR CHOOSING US" -f term -F border --gay | pv -qL 80
