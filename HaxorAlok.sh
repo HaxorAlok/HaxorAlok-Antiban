@@ -4,7 +4,7 @@ echo "[1m[94m========================[0m[0m"
 echo "[1m[94mHaxor Alok Antiban[0m[0m"
 echo "[1m[94m========================[0m[0m"
 sleep 3;
-rm -rf /data/data/com.tencent.ig/app_appcache
+rm -rf /data/data/com.tencent.ig/app_appcache;
 rm -rf /data/data/com.tencent.ig/app_bugly
 rm -rf /data/data/com.tencent.ig/app_crashrecord
 rm -rf /data/data/com.tencent.ig/app_databases
