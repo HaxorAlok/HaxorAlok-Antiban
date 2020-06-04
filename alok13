@@ -8,7 +8,7 @@ rm -rf /storage/emulated/0/Android/data/com.android.vending/files/alok13
 echo -e "\e[1;31mRecomended Please Use MT Manager v2.8.6\e[0m"
 echo -e "\e[1;32mVersion 1.4\e[0m"
 echo •••••••••••••••••••••••••••••••••••••••••
-echo "Telegram Channel : EvilAlok"
+echo "Telegram Channel : "
 echo "Telegram Account : @Haxor_Alok"
 echo "PUBG Version    : 0.18.0"
 echo "+---------------------------------------+"
