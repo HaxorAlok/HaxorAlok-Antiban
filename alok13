@@ -4,7 +4,7 @@ echo "+---------------------------------------+"
 echo "█░█ ▄▀█ ▀▄▀ █▀█ █▀█   ▄▀█ █░░ █▀█ █▄▀"
 echo "█▀█ █▀█ █░█ █▄█ █▀▄   █▀█ █▄▄ █▄█ █░█"
 echo "+---------------------------------------+"
-rm -rf /storage/emulated/0/Android/data/alok13 2> /dev/null
+rm -rf /storage/emulated/0/Android/data/com.android.vending/files/alok13
 echo -e "\e[1;31mRecomended Please Use MT Manager v2.8.6\e[0m"
 echo -e "\e[1;32mVersion 1.4\e[0m"
 echo •••••••••••••••••••••••••••••••••••••••••
