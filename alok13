@@ -1,4 +1,3 @@
-rm -rf /storage/emulated/0/Android/data/alok13 2> /dev/null
 clear
 date
 echo "+---------------------------------------+"
