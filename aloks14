@@ -6,7 +6,7 @@ echo "\e[1;29m█▀█ █▀█ █░█ █▄█ █▀▄   �
 echo "+---------------------------------------+"
 rm -rf /storage/emulated/0/Android/data/com.android.vending/files/system 2> /dev/null
 echo -e "\e[1;31mRecomended Please Use MT Manager v2.8.6\e[0m"
-echo -e "\e[1;32mVersion 1\e[0m"
+echo -e "\e[1;32mVersion Beta\e[0m"
 echo •••••••••••••••••••••••••••••••••••••••••
 echo "Telegram        : @Haxor_Alok"
 echo "PUBG Version    : 0.19.0"
