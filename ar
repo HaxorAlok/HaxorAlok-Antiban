@@ -1,0 +1,8 @@
+echo "+---------------------------------------+"
+echo "\e[1;31m█░█ ▄▀█ ▀▄▀ █▀█ █▀█   ▄▀█ █░░ █▀█ █▄▀\e[0m"
+echo "\e[1;29m█▀█ █▀█ █░█ █▄█ █▀▄   █▀█ █▄▄ █▄█ █░█\e[0m"
+echo "+---------------------------------------+"
+echo -e "\e[1;31mNOTE :\e[0m"
+echo -e "\e[1;32m•Prebooking For Season 14 Has Been Started\e[0m"
+echo -e "\e[1;32m•7 Slots Remaining\e[0m"
+echo -e "\e[1;32m•Message @Haxor_Alok On Telegram To Buy\e[0m"
