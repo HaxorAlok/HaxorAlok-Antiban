@@ -1,0 +1,1 @@
+echo -e "\e[1;31mWait For Update\e[0m"
